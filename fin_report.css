@@ -1,0 +1,18 @@
+h1 {
+  background-color: rgb(56, 4, 4);
+  color: rgb(200, 200, 200);
+}
+
+p {
+  font-size: 40px;
+  color: rgb(200, 200, 200);
+  background-color: rgb(56, 4, 4);
+}
+
+div {
+  margin: 20px;
+  border: 2px solid green;
+  background-color: rgb(215, 209, 223);
+}
+
+/*# sourceMappingURL=fin_report.css.map */

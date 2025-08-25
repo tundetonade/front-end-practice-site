@@ -1,0 +1,22 @@
+$color: rgb(200,200,200);
+
+$bgcolor: rgb(56, 4, 4);
+$size:40px;
+$border: 2px solid green;
+
+h1{
+    background-color: $bgcolor;
+    color: $color
+}
+
+p{
+    font-size: $size;
+    color:$color;
+    background-color: $bgcolor;
+}
+
+div{
+    margin: 20px;
+    border: $border;
+    background-color: rgb(215, 209, 223);
+}
