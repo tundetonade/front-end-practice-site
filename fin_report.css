@@ -6,12 +6,12 @@ h1 {
 p {
   font-size: 40px;
   color: rgb(200, 200, 200);
-  background-color: rgb(56, 4, 4);
+  background-color: rgb(3, 44, 17);
 }
 
 div {
   margin: 20px;
-  border: 2px solid green;
+  border: 2px solid rgb(46, 9, 212);
   background-color: rgb(215, 209, 223);
 }
 
